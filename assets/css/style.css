@@ -14,7 +14,7 @@
 .overlay{
     position: absolute;   
     background: red;
-    left: 0; 
+    left: -5px; 
     top: 0; 
     width: 100%;
     min-width: 500px;
