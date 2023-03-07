@@ -4,7 +4,7 @@ let cognome = prompt("Inserisci il tuo cognome:");
 let colorePreferito = prompt("Inserisci il tuo colore preferito:");
 
 // Concatenazione delle tre stringhe
-let risultato = nome + cognome + colorePreferito;
+let risultato = nome+cognome+colorePreferito;
 
 // Visualizzazione del risultato nel DOM
 document.write("La tua password è: " + risultato);
