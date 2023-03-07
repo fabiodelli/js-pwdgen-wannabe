@@ -7,4 +7,6 @@ let colorePreferito = prompt("Inserisci il tuo colore preferito:");
 let risultato = nome+cognome+colorePreferito;
 
 // Visualizzazione del risultato nel DOM
-document.write("La tua password è: " + risultato);
+
+document.write("La tua password è: " + risultato+"23");
+
