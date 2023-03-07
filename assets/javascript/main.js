@@ -8,5 +8,7 @@ let risultato = nome+cognome+colorePreferito;
 
 // Visualizzazione del risultato nel DOM
 
-document.write("La tua password è: " + risultato+"23");
+/* document.write("La tua password è: " + risultato+"23"); */
+
+document.getElementById("your_password").innerHTML = "La tua password è: " + risultato+"23";
 
