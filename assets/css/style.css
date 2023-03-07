@@ -1,0 +1,21 @@
+*{
+    font-size: 50px;
+}
+
+.passw_container{
+   position: relative; 
+}
+
+.overlay{
+    position: absolute;   
+    background: red;
+    left: 0; 
+    top: 0; 
+    width: 100%;
+    min-width: 500px;
+       
+}
+
+.overlay:hover{
+    display: none;    
+}

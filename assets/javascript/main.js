@@ -10,5 +10,5 @@ const risultato = nome+cognome+colorePreferito;
 
 /* document.write("La tua password è: " + risultato+"23"); */
 
-document.getElementById("your_password").innerHTML = `La tua password è: ${risultato}23`
+document.getElementById("your_password").innerHTML = ` ${risultato}23`
 
